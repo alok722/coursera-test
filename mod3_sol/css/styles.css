@@ -123,3 +123,16 @@ hr {
   color: white;
   font-size: 1.2em;
 }
+.back-top:hover, .back-top:focus {
+    text-decoration: none;
+    color: red;
+  }
+
+.back-top {
+	font-weight: bold;
+	font-size: 125%;
+    color: #581845;
+    padding-bottom: 15px;
+  }
+
+}
